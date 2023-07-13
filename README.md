@@ -3,7 +3,6 @@ pokedex desenvolvida durante o evento Mapa DevWeek do canal Dev em Dobro.  <br><
 
 Hospedado no GitHub pages:
 <br>
-<br>
 https://mikereiss.github.io/pokemoncards/
 <br>
 <br>
